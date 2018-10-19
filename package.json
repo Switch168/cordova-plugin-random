@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-random",
+  "version": "0.0.0",
+  "description": "Cordova Random Plugin",
+  "cordova": {
+    "id": "cordova-plugin-random",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Switch168/cordova-plugin-random.git"
+  },
+  "keywords": [
+    "cordova",
+    "random",
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "Switch168",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/Switch168/cordova-plugin-random/issues"
+  },
+  "homepage": "https://github.com/Switch168/cordova-plugin-random#readme"
+}
