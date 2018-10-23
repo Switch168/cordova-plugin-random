@@ -1,4 +1,4 @@
-#import "Random.h"
+#import "RandomPlugin.h"
 
 @implementation RandomPlugin
 
